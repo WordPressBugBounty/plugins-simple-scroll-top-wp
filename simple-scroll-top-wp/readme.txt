@@ -5,13 +5,13 @@ Author URI: https://www.alihossain.com/
 Plugin URI: https://wordpress.org/plugins/simple-scroll-to-top-wp/
 Tags: scroll to top, back to top button, smooth scroll, progress indicator
 Requires at least: 5.2
-Tested up to: 6.9.4
+Tested up to: 6.9
 Requires PHP: 7.2
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-A lightweight WordPress plugin that adds a customizable "Back to Top" button with a smooth circular progress ring. Fully responsive and easy to configure.
+A lightweight WordPress plugin that adds a customizable "Back to Top" button with a smooth circular progress ring.
 
 == Description ==
 
@@ -187,4 +187,4 @@ For support, feature requests, or bug reports:
 
 This plugin is licensed under the GPLv2 or later. See LICENSE file for details.
 
-Copyright (c) 2024 Ali Hossain
+Copyright (c) 2026 Ali Hossain
